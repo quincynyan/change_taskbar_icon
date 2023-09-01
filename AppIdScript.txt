@@ -1,0 +1,276 @@
+Windows.PrintDialog = Windows.PrintDialog_cw5n1h2txyewy!Microsoft.Windows.PrintDialog
+Microsoft.Wallet = Microsoft.Wallet_8wekyb3d8bbwe!App
+Microsoft.AAD.BrokerPlugin = Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy!App
+Microsoft.AccountsControl = Microsoft.AccountsControl_cw5n1h2txyewy!App
+Microsoft.AsyncTextService = Microsoft.AsyncTextService_8wekyb3d8bbwe!App
+Microsoft.BioEnrollment = Microsoft.BioEnrollment_cw5n1h2txyewy!App
+Microsoft.CredDialogHost = Microsoft.CredDialogHost_cw5n1h2txyewy!App
+Microsoft.ECApp = Microsoft.ECApp_8wekyb3d8bbwe!App
+Microsoft.LockApp = Microsoft.LockApp_cw5n1h2txyewy!WindowsDefaultLockScreen
+Microsoft.MicrosoftEdgeDevToolsClient = Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe!App
+Microsoft.Windows.Apprep.ChxApp = Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy!App
+Microsoft.Windows.AssignedAccessLockApp = Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy!App
+Microsoft.Windows.CallingShellApp = Microsoft.Windows.CallingShellApp_cw5n1h2txyewy!Microsoft.Windows.CallingShellApp
+Microsoft.Windows.CapturePicker = Microsoft.Windows.CapturePicker_cw5n1h2txyewy!App
+Microsoft.Windows.OOBENetworkCaptivePortal = Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy!App
+Microsoft.Windows.OOBENetworkConnectionFlow = Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy!App
+Microsoft.Windows.ParentalControls = Microsoft.Windows.ParentalControls_cw5n1h2txyewy!App
+Microsoft.Windows.PinningConfirmationDialog = Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy!App
+Microsoft.XboxGameCallableUI = Microsoft.XboxGameCallableUI_cw5n1h2txyewy!Microsoft.XboxGameCallableUI
+NcsiUwpApp = NcsiUwpApp_8wekyb3d8bbwe!App
+1527c705-839a-4832-9118-54d4Bd6a0c89 = 1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy!Microsoft.Windows.FilePicker
+c5e2524a-ea46-4f67-841f-6a9465d9d515 = c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy!App
+E2A4F912-2574-4A75-9BB0-0D023378592B = E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy!Microsoft.Windows.AppResolverUX
+F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE = F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy!App
+Microsoft.MicrosoftEdge = Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+Microsoft.MicrosoftEdge = Microsoft.MicrosoftEdge_8wekyb3d8bbwe!PdfReader
+Microsoft.Win32WebViewHost = Microsoft.Win32WebViewHost_cw5n1h2txyewy!DPI.PerMonitorAware
+Microsoft.Win32WebViewHost = Microsoft.Win32WebViewHost_cw5n1h2txyewy!DPI.SystemAware
+Microsoft.Win32WebViewHost = Microsoft.Win32WebViewHost_cw5n1h2txyewy!DPI.Unaware
+Microsoft.Windows.CloudExperienceHost = Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App
+Microsoft.Windows.ContentDeliveryManager = Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy!App
+Microsoft.Windows.NarratorQuickStart = Microsoft.Windows.NarratorQuickStart_8wekyb3d8bbwe!App
+Microsoft.Windows.PeopleExperienceHost = Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy!App
+Microsoft.Windows.SecHealthUI = Microsoft.Windows.SecHealthUI_cw5n1h2txyewy!SecHealthUI
+Microsoft.Windows.SecureAssessmentBrowser = Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy!App
+Microsoft.Windows.ShellExperienceHost = Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App
+Microsoft.Windows.XGpuEjectDialog = Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy!Microsoft.Windows.XGpuEjectDialog
+MicrosoftWindows.UndockedDevKit = MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy!App
+Windows.CBSPreview = Windows.CBSPreview_cw5n1h2txyewy!Microsoft.Windows.CBSPreview
+WavesAudio.MaxxAudioProforDell2019 = WavesAudio.MaxxAudioProforDell2019_fh4rh281wavaa!App
+NVIDIACorp.NVIDIAControlPanel = NVIDIACorp.NVIDIAControlPanel_56jybvy8sckqj!NVIDIACorp.NVIDIAControlPanel
+AppUp.IntelOptaneMemoryandStorageManagement = AppUp.IntelOptaneMemoryandStorageManagement_8j3eq9eme6ctt!App
+AppUp.IntelOptaneMemoryandStorageManagement = AppUp.IntelOptaneMemoryandStorageManagement_8j3eq9eme6ctt!Notifier
+Microsoft.XboxGameOverlay = Microsoft.XboxGameOverlay_8wekyb3d8bbwe!App
+Microsoft.XboxSpeechToTextOverlay = Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbwe!App
+Microsoft.Xbox.TCUI = Microsoft.Xbox.TCUI_8wekyb3d8bbwe!Microsoft.Xbox.TCUI
+Microsoft.XboxIdentityProvider = Microsoft.XboxIdentityProvider_8wekyb3d8bbwe!Microsoft.XboxIdentityProvider
+Microsoft.MixedReality.Portal = Microsoft.MixedReality.Portal_8wekyb3d8bbwe!App
+Microsoft.ScreenSketch = Microsoft.ScreenSketch_8wekyb3d8bbwe!App
+Microsoft.GetHelp = Microsoft.GetHelp_8wekyb3d8bbwe!App
+Microsoft.WindowsFeedbackHub = Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App
+Microsoft.WindowsMaps = Microsoft.WindowsMaps_8wekyb3d8bbwe!App
+Microsoft.ZuneVideo = Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo
+Microsoft.People = Microsoft.People_8wekyb3d8bbwe!x4c7a3b7dy2188y46d4ya362y19ac5a5805e5x
+Microsoft.WindowsSoundRecorder = Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App
+Microsoft.WebMediaExtensions = Microsoft.WebMediaExtensions_8wekyb3d8bbwe!App
+Microsoft.VP9VideoExtensions = Microsoft.VP9VideoExtensions_8wekyb3d8bbwe!App
+Microsoft.Office.OneNote = Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim
+Microsoft.WindowsAlarms = Microsoft.WindowsAlarms_8wekyb3d8bbwe!App
+Microsoft.MSPaint = Microsoft.MSPaint_8wekyb3d8bbwe!Microsoft.MSPaint
+PythonSoftwareFoundation.Python.3.10 = PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!Python
+PythonSoftwareFoundation.Python.3.10 = PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!PythonW
+PythonSoftwareFoundation.Python.3.10 = PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!Pip
+PythonSoftwareFoundation.Python.3.10 = PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!Idle
+Microsoft.Winget.Source = Microsoft.Winget.Source_8wekyb3d8bbwe!SourceData
+Microsoft.WindowsCamera = Microsoft.WindowsCamera_8wekyb3d8bbwe!App
+Microsoft.ZuneMusic = Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic
+D5EA27B7.Duolingo-LearnLanguagesforFree = D5EA27B7.Duolingo-LearnLanguagesforFree_yx6k7tf7xvsea!App
+Microsoft.Getstarted = Microsoft.Getstarted_8wekyb3d8bbwe!App
+Microsoft.BingWeather = Microsoft.BingWeather_8wekyb3d8bbwe!App
+Microsoft.PPIProjection = Microsoft.PPIProjection_cw5n1h2txyewy!Microsoft.PPIProjection
+DellInc.DellUpdate = DellInc.DellUpdate_htrsf667h5kn2!x9727E6712F7B4FBAA8FC91F6EFFD8095x
+Microsoft.OutlookForWindows = Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+AdobeNotificationClient = AdobeNotificationClient_enpm4xejd91yc!CreativeCloud
+Microsoft.WebpImageExtension = Microsoft.WebpImageExtension_8wekyb3d8bbwe!App
+Microsoft.XboxGamingOverlay = Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App
+Microsoft.549981C3F5F10 = Microsoft.549981C3F5F10_8wekyb3d8bbwe!App
+AppUp.IntelGraphicsExperience = AppUp.IntelGraphicsExperience_8j3eq9eme6ctt!App
+Microsoft.MicrosoftOfficeHub = Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub
+Microsoft.MicrosoftOfficeHub = Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!LocalBridge
+Microsoft.MicrosoftOfficeHub = Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!OfficeHubHWA
+Microsoft.LanguageExperiencePacken-GB = Microsoft.LanguageExperiencePacken-GB_8wekyb3d8bbwe!App
+Microsoft.LanguageExperiencePackja-JP = Microsoft.LanguageExperiencePackja-JP_8wekyb3d8bbwe!App
+Microsoft.Windows.StartMenuExperienceHost = Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy!App
+Microsoft.Windows.Search = Microsoft.Windows.Search_cw5n1h2txyewy!CortanaUI
+Microsoft.Windows.Search = Microsoft.Windows.Search_cw5n1h2txyewy!ShellFeedsUI
+Microsoft.YourPhone = Microsoft.YourPhone_8wekyb3d8bbwe!App
+CanonicalGroupLimited.Ubuntu = CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc!ubuntu
+microsoft.windowscommunicationsapps = microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail
+microsoft.windowscommunicationsapps = microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar
+microsoft.windowscommunicationsapps = microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.manageaccounts
+MicrosoftWindows.Client.CBS = MicrosoftWindows.Client.CBS_cw5n1h2txyewy!PackageMetadata
+MicrosoftWindows.Client.CBS = MicrosoftWindows.Client.CBS_cw5n1h2txyewy!Global.AppListBackup
+MicrosoftWindows.Client.CBS = MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp
+MicrosoftWindows.Client.CBS = MicrosoftWindows.Client.CBS_cw5n1h2txyewy!Global.IrisService
+MicrosoftWindows.Client.CBS = MicrosoftWindows.Client.CBS_cw5n1h2txyewy!ScreenClipping
+Microsoft.StorePurchaseApp = Microsoft.StorePurchaseApp_8wekyb3d8bbwe!App
+Microsoft.MicrosoftStickyNotes = Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App
+DellInc.DellSupportAssistforPCs = DellInc.DellSupportAssistforPCs_htrsf667h5kn2!App
+Microsoft.SkypeApp = Microsoft.SkypeApp_kzf8qxf38zg5c!App
+Microsoft.MicrosoftSolitaireCollection = Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App
+MicrosoftCorporationII.WindowsSubsystemForLinux = MicrosoftCorporationII.WindowsSubsystemForLinux_8wekyb3d8bbwe!wsl
+MicrosoftCorporationII.WindowsSubsystemForLinux = MicrosoftCorporationII.WindowsSubsystemForLinux_8wekyb3d8bbwe!wslg
+MicrosoftCorporationII.WindowsSubsystemForLinux = MicrosoftCorporationII.WindowsSubsystemForLinux_8wekyb3d8bbwe!wslhost
+MicrosoftCorporationII.WindowsSubsystemForLinux = MicrosoftCorporationII.WindowsSubsystemForLinux_8wekyb3d8bbwe!wslrelay
+MicrosoftCorporationII.WindowsSubsystemForLinux = MicrosoftCorporationII.WindowsSubsystemForLinux_8wekyb3d8bbwe!msrdc
+Microsoft.MicrosoftEdge.Stable = Microsoft.MicrosoftEdge.Stable_8wekyb3d8bbwe!App
+55746MarkSmirnov.BluetoothAudioReveicer = 55746MarkSmirnov.BluetoothAudioReveicer_xwrbx6997tsfc!App
+DellInc.DellDigitalDelivery = DellInc.DellDigitalDelivery_htrsf667h5kn2!App
+Microsoft.DesktopAppInstaller = Microsoft.DesktopAppInstaller_8wekyb3d8bbwe!App
+Microsoft.DesktopAppInstaller = Microsoft.DesktopAppInstaller_8wekyb3d8bbwe!PythonRedirector
+Microsoft.DesktopAppInstaller = Microsoft.DesktopAppInstaller_8wekyb3d8bbwe!winget
+Microsoft.DesktopAppInstaller = Microsoft.DesktopAppInstaller_8wekyb3d8bbwe!WinGetComServer
+Microsoft.WindowsStore = Microsoft.WindowsStore_8wekyb3d8bbwe!App
+Microsoft.Microsoft3DViewer = Microsoft.Microsoft3DViewer_8wekyb3d8bbwe!Microsoft.Microsoft3DViewer
+Microsoft.HEIFImageExtension = Microsoft.HEIFImageExtension_8wekyb3d8bbwe!App
+Microsoft.XboxApp = Microsoft.XboxApp_8wekyb3d8bbwe!Microsoft.XboxApp
+Microsoft.Windows.Photos = Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+Microsoft.Windows.Photos = Microsoft.Windows.Photos_8wekyb3d8bbwe!SecondaryEntry
+Microsoft.WindowsCalculator = Microsoft.WindowsCalculator_8wekyb3d8bbwe!App
+SpotifyAB.SpotifyMusic = SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify
+SpotifyAB.SpotifyMusic = SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Widget
+windows.immersivecontrolpanel = windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel
+
+
+==================
+
+
+    AppUserModelID    REG_SZ    PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!Pip
+    AppUserModelID    REG_SZ    PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!Pip
+    AppUserModelID    REG_SZ    Windows.PrintDialog_cw5n1h2txyewy!Microsoft.Windows.PrintDialog
+    AppUserModelID    REG_SZ    Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.People_8wekyb3d8bbwe!x4c7a3b7dy2188y46d4ya362y19ac5a5805e5x
+    AppUserModelID    REG_SZ    Microsoft.WindowsStore_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    DellInc.DellDigitalDelivery_htrsf667h5kn2!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.ScreenSketch_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim
+    AppUserModelID    REG_SZ    AdobeNotificationClient_enpm4xejd91yc!CreativeCloud
+    AppUserModelID    REG_SZ    Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.MixedReality.Portal_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+    AppUserModelID    REG_SZ    Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    DellInc.DellSupportAssistforPCs_htrsf667h5kn2!App
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+    AppUserModelID    REG_SZ    Microsoft.PPIProjection_cw5n1h2txyewy!Microsoft.PPIProjection
+    AppUserModelID    REG_SZ    Microsoft.XboxGameCallableUI_cw5n1h2txyewy!Microsoft.XboxGameCallableUI
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.Windows.Search_cw5n1h2txyewy!CortanaUI
+    AppUserModelID    REG_SZ    Microsoft.SkypeApp_kzf8qxf38zg5c!App
+    AppUserModelID    REG_SZ    Microsoft.SkypeApp_kzf8qxf38zg5c!App
+    AppUserModelID    REG_SZ    Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp
+    AppUserModelID    REG_SZ    Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.SecHealthUI_cw5n1h2txyewy!SecHealthUI
+    AppUserModelID    REG_SZ    Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo
+    AppUserModelID    REG_SZ    Microsoft.WindowsStore_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsStore_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub
+    AppUserModelID    REG_SZ    microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar
+    AppUserModelID    REG_SZ    Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+    AppUserModelID    REG_SZ    Microsoft.Microsoft3DViewer_8wekyb3d8bbwe!Microsoft.Microsoft3DViewer
+    AppUserModelID    REG_SZ    c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.YourPhone_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.YourPhone_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+    AppUserModelID    REG_SZ    Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsCamera_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.DesktopAppInstaller_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.PPIProjection_cw5n1h2txyewy!Microsoft.PPIProjection
+    AppUserModelID    REG_SZ    Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim
+    AppUserModelID    REG_SZ    Microsoft.YourPhone_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.YourPhone_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Xbox.TCUI_8wekyb3d8bbwe!Microsoft.Xbox.TCUI
+    AppUserModelID    REG_SZ    MicrosoftWindows.Client.CBS_cw5n1h2txyewy!ScreenClipping
+    AppUserModelID    REG_SZ    Microsoft.StorePurchaseApp_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.SkypeApp_kzf8qxf38zg5c!App
+    AppUserModelID    REG_SZ    Microsoft.SkypeApp_kzf8qxf38zg5c!App
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.OutlookForWindows_8wekyb3d8bbwe!Microsoft.OutlookforWindows
+    AppUserModelID    REG_SZ    Microsoft.MSPaint_8wekyb3d8bbwe!Microsoft.MSPaint
+    AppUserModelID    REG_SZ    microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+    AppUserModelID    REG_SZ    Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+    AppUserModelID    REG_SZ    Microsoft.WindowsStore_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail
+    AppUserModelID    REG_SZ    Microsoft.Windows.ParentalControls_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+    AppUserModelID    REG_SZ    Microsoft.WindowsMaps_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsCamera_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsCalculator_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsStore_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.BingWeather_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsStore_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy!Microsoft.Windows.XGpuEjectDialog
+    AppUserModelID    REG_SZ    microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar
+    AppUserModelID    REG_SZ    WavesAudio.MaxxAudioProforDell2019_fh4rh281wavaa!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail
+    AppUserModelID    REG_SZ    microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.manageaccounts
+    AppUserModelID    REG_SZ    Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!Python
+    AppUserModelID    REG_SZ    PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!Python
+    AppUserModelID    REG_SZ    Microsoft.XboxGameOverlay_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Microsoft3DViewer_8wekyb3d8bbwe!Microsoft.Microsoft3DViewer
+    AppUserModelID    REG_SZ    Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim
+    AppUserModelID    REG_SZ    Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsCamera_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsCalculator_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsMaps_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.People_8wekyb3d8bbwe!x4c7a3b7dy2188y46d4ya362y19ac5a5805e5x
+    AppUserModelID    REG_SZ    Microsoft.MSPaint_8wekyb3d8bbwe!Microsoft.MSPaint
+    AppUserModelID    REG_SZ    Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+    AppUserModelID    REG_SZ    Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic
+    AppUserModelID    REG_SZ    Microsoft.WindowsMaps_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Windows.PrintDialog_cw5n1h2txyewy!Microsoft.Windows.PrintDialog
+    AppUserModelID    REG_SZ    Microsoft.ScreenSketch_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.SecHealthUI_cw5n1h2txyewy!SecHealthUI
+    AppUserModelID    REG_SZ    Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic
+    AppUserModelID    REG_SZ    Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    DellInc.DellSupportAssistforPCs_htrsf667h5kn2!App
+    AppUserModelID    REG_SZ    Microsoft.SkypeApp_kzf8qxf38zg5c!App
+    AppUserModelID    REG_SZ    Microsoft.SkypeApp_kzf8qxf38zg5c!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsMaps_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Windows.Search_cw5n1h2txyewy!ShellFeedsUI
+    AppUserModelID    REG_SZ    microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail
+    AppUserModelID    REG_SZ    Microsoft.People_8wekyb3d8bbwe!x4c7a3b7dy2188y46d4ya362y19ac5a5805e5x
+    AppUserModelID    REG_SZ    Microsoft.Windows.Photos_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.WindowsAlarms_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.ECApp_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.SkypeApp_kzf8qxf38zg5c!App
+    AppUserModelID    REG_SZ    Microsoft.SkypeApp_kzf8qxf38zg5c!App
+    AppUserModelID    REG_SZ    Microsoft.GetHelp_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    DellInc.DellUpdate_htrsf667h5kn2!x9727E6712F7B4FBAA8FC91F6EFFD8095x
+    AppUserModelID    REG_SZ    DellInc.DellUpdate_htrsf667h5kn2!x9727E6712F7B4FBAA8FC91F6EFFD8095x
+    AppUserModelID    REG_SZ    Microsoft.DesktopAppInstaller_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.549981C3F5F10_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Getstarted_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic
+    AppUserModelID    REG_SZ    microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail
+    AppUserModelID    REG_SZ    Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!PythonW
+    AppUserModelID    REG_SZ    PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0!PythonW
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub
+    AppUserModelID    REG_SZ    Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub
+    AppUserModelID    REG_SZ    Microsoft.BingWeather_8wekyb3d8bbwe!App
+    AppUserModelID    REG_SZ    Microsoft.Microsoft3DViewer_8wekyb3d8bbwe!Microsoft.Microsoft3DViewer
+    AppUserModelID    REG_SZ    SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify
+    AppUserModelID    REG_SZ    SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify
